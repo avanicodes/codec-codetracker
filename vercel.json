@@ -1,0 +1,4 @@
+{
+  "functions": { "api/sync-codeforces.js": { "maxDuration": 300 } },
+  "crons": [{ "path": "/api/sync-codeforces", "schedule": "0 19 * * *" }]
+}
