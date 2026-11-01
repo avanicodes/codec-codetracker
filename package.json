@@ -1,0 +1,25 @@
+{
+  "name": "codec-tracker",
+  "version": "1.0.0",
+  "description": "A dashboard for CODEC mentors and club heads to track new recruits' progress on LeetCode, Codeforces, CodeChef and HackerRank.",
+  "main": "sync-codeforces.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanicodes/codec-codetracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avanicodes/codec-codetracker/issues"
+  },
+  "homepage": "https://github.com/avanicodes/codec-codetracker#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "dotenv": "^18.0.9"
+  }
+}
